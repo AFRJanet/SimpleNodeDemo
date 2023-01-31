@@ -1,2 +1,4 @@
 node_modules/*
 /.node_env_variables.bat
+/Admin_key.txt
+/eks_keys.ppk
